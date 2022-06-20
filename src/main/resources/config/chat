@@ -1,0 +1,3 @@
+myMessageConfig=src/main/resources/config/chatConfig/myMessageConfig
+othersMessageConfig=src/main/resources/config/chatConfig/othersMessageConfig
+chatDetailsConfig=src/main/resources/config/chatConfig/chatDetailsConfig
